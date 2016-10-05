@@ -89,7 +89,7 @@ add this code:
         // ...
       }
 
-This loads Font Awesome and associates it with the name ``'open-sans-bold'`` in
+This loads OpenSans-Bold and associates it with the name ``'open-sans-bold'`` in
 Exponent's font map. Now we just have to refer to this font in our ``Text``
 component.
 
